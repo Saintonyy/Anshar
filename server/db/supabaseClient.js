@@ -1,0 +1,1 @@
+full contents of server/db/supabaseClient.js
